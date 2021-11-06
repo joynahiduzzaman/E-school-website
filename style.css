@@ -55,8 +55,9 @@
     margin-top: 50px;
     margin-left: 7%;
     
+    
 }
-.col-md-3{
+.col-md-three{
     padding: 10px;
     border: none;
     box-shadow: 5px 5px 5px lightgray;
@@ -65,8 +66,9 @@
     margin: 5px;
     width: 270px;
     cursor: pointer;
+    padding-top: 30px;
 }
-.col-md-3:hover{
+.col-md-three:hover{
     background-color: white;
 
 }
@@ -86,14 +88,64 @@
 .img-cal{
     width: 20px;
     height: 18px;
+    position: relative;
+    left: 30px;
 }
 .date-cal{
     font-size: 16px;
+    padding-top: 6px;
 }
 .img-people{
     width: 20px;
-    height: 18px;
+    height: 20px;
+    position: relative;
+    left: 30px;
 }
 .people-count{
     font-size: 16px;
+    margin-left: 1px;
+    padding-top: 8px;
+}
+.last-card-line{
+    margin-top: 20px;
+    cursor: pointer;
+}
+.card{
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 25px;
+}
+.thirty-width{
+    width: 30%;
+    float: right;
+}
+.thirty-width img{
+    height: 150px;
+    float: right;
+}
+.seventy-width p{
+    padding: 20px;
+    font-weight: 600;
+}
+.last-part{
+    background-color: #282531;
+    height: 500px;
+    width: 100%;
+    padding: 20px;
+}
+.last-para{
+    width: 130px;
+    padding-left: 20px;
+}
+.last-part h3{
+    color: white;
+    padding-left: 20px;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    padding-top: 200px;
 }
