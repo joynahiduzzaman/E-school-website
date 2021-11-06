@@ -1,0 +1,99 @@
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    width: 200px;
+}
+.navbar .h1{
+    font-size: small;
+    font-weight: 700;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.color-me{
+    color: rgb(17, 17, 17);
+    margin-right: 50px;
+}
+.button{
+    color: white;
+    background-color: #21B573;
+    border-radius: 20px;
+    padding: 12px 28px;
+    text-align: center;
+    border: none;
+    
+}
+.are-you-ready{
+    font-size: 20px;
+    color: #FD511A;
+    margin-bottom: 30px;
+}
+.learn-fun{
+    font-weight: 700;
+}
+.green-highlight{
+    color: #21B573;
+    margin-bottom: 130px;
+}
+.paragraph-one{
+    color: lightgray;
+}
+.first-bg{
+    background-color: #F0FFF0;
+    height: 600px;
+}
+.row{
+    margin-top: 50px;
+    margin-left: 7%;
+    
+}
+.col-md-3{
+    padding: 10px;
+    border: none;
+    box-shadow: 5px 5px 5px lightgray;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    margin: 5px;
+    width: 270px;
+    cursor: pointer;
+}
+.col-md-3:hover{
+    background-color: white;
+
+}
+.col-md-3 img{
+    width: 66px;
+    height: 85px;
+}
+.col-md-3 h3{
+    font-size: 20px;
+}
+.col-md-3 p{
+    color: lightgray;
+}
+.online-courses{
+    font-weight: 700;
+}
+.img-cal{
+    width: 20px;
+    height: 18px;
+}
+.date-cal{
+    font-size: 16px;
+}
+.img-people{
+    width: 20px;
+    height: 18px;
+}
+.people-count{
+    font-size: 16px;
+}
