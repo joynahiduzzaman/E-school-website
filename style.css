@@ -32,6 +32,10 @@
     border: none;
     
 }
+.button:hover{
+    color: rgb(243, 124, 124);
+    background-color: #88e9bd;
+}
 .are-you-ready{
     font-size: 20px;
     color: #FD511A;
